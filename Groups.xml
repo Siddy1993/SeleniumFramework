@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="GroupSuite" verbose="1">
+
+  <listeners>
+    <listener class-name="Listeners.ExtentReportListener"/>
+  </listeners>
+
+  <test name="Login Group Test">
+    
+    <!-- 🔹 Required Parameters for setup() -->
+    <parameter name="browser" value="chrome"/>
+    <parameter name="os" value="Windows"/>
+
+    <!-- 🔸 Run only 'login' group -->
+    <groups>
+      <run>
+        <include name="login"/>
+      </run>
+    </groups>
+
+    <classes>
+      <class name="testCases.TC001_LoginPageTest"/>
+    </classes>
+  </test>
+
+</suite>

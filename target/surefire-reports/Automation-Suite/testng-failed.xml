@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation-Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="os" value="mac"/>
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="Listeners.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.TC001_LoginPageTest">
+        <methods>
+          <include name="enterUsername"/>
+          <include name="initObjects"/>
+          <include name="clickOnLoginButton"/>
+          <include name="enterPassword"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC001_LoginPageTest -->
+      <class name="testCases.TC002_AdminPageTest">
+        <methods>
+          <include name="clickOnAdminButton"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="selectCheckBoxes"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC002_AdminPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Automation-Suite] -->

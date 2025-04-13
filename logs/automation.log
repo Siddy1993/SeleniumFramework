@@ -1,0 +1,567 @@
+11:59:19.616 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+11:59:20.169 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+11:59:20.305 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+11:59:20.334 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+11:59:20.436 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+12:38:45.789 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+12:38:47.105 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+12:38:47.245 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+12:38:50.896 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+12:38:51.001 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+12:39:28.946 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+12:39:29.143 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+12:39:29.284 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+12:39:32.617 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+12:39:32.617 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+12:39:50.237 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+12:39:50.399 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+12:39:50.536 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+12:41:10.962 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+12:41:13.576 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+12:41:13.716 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+12:41:26.060 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+12:41:26.061 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:31:38.418 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+13:31:39.218 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+13:31:39.360 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:31:52.733 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:31:52.734 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:32:36.890 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+13:32:37.013 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+13:32:37.121 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:32:49.226 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:32:49.227 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:33:43.108 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+13:33:43.408 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered user name
+13:33:43.551 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+13:33:53.588 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:33:53.589 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+14:14:57.205 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+14:15:00.191 [main] INFO  testCases.TC001_LoginPageTest - Entered user name
+14:15:00.329 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+14:15:10.376 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+14:15:10.376 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+14:16:32.876 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+14:16:35.209 [main] INFO  testCases.TC001_LoginPageTest - Admin
+14:16:35.348 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+14:16:46.620 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+14:16:46.621 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+15:00:03.322 [main] INFO  testCases.TC001_LoginPageTest - Starting TC001_LoginPageTest
+15:00:04.860 [main] INFO  testCases.TC001_LoginPageTest - Admin
+15:00:05.000 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+15:00:16.641 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+15:00:16.642 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+15:00:20.583 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC001_LoginPageTest
+15:02:40.412 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC001_LoginPageTest
+15:15:40.341 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC001_LoginPageTest
+15:28:56.599 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC001_LoginPageTest
+15:35:40.604 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC001_LoginPageTest
+15:46:36.492 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC002_ForgotPasswordTest
+15:47:23.714 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC002_ForgotPasswordTest
+16:16:44.959 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC002_ForgotPasswordTest
+16:16:47.764 [main] INFO  testCases.TC002_ForgotPasswordTest - Clicked on forgot password
+16:16:47.764 [main] INFO  testCases.TC002_ForgotPasswordTest - Valdating reset password text in popup
+16:18:25.916 [main] INFO  testCases.TC002_ForgotPasswordTest - Starting TC002_ForgotPasswordTest
+16:18:26.931 [main] INFO  testCases.TC002_ForgotPasswordTest - Clicked on forgot password
+16:18:26.931 [main] INFO  testCases.TC002_ForgotPasswordTest - Valdating reset password text in popup
+16:18:27.311 [main] INFO  testCases.TC002_ForgotPasswordTest - Validation successfullReset Password
+16:16:22.500 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+16:16:32.555 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:16:32.555 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:20:00.584 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+16:20:10.640 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:20:10.640 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:22:18.362 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+16:22:28.428 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:22:28.429 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:23:31.411 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+16:23:41.461 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:23:41.462 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:26:28.018 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+16:26:39.141 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:26:39.141 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:27:34.580 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Entered password
+16:27:36.178 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+16:27:45.726 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:27:45.727 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:27:47.316 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:27:47.317 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:30:48.987 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Entered password
+16:30:50.438 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+16:31:00.208 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:31:00.209 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:31:00.481 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:31:00.481 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:31:22.655 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Entered password
+16:31:24.729 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Entered password
+16:31:33.995 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:31:33.996 [TestNG-tests-2] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+16:31:35.906 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+16:31:35.907 [TestNG-tests-1] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:09:03.751 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:09:15.000 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:09:15.003 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:14:21.889 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:14:33.179 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:14:33.179 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:15:40.884 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:15:52.084 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:15:52.085 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:43:23.596 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:43:34.894 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:43:34.895 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+13:44:21.575 [main] INFO  testCases.TC001_LoginPageTest - Entered password
+13:44:32.864 [main] INFO  testCases.TC001_LoginPageTest - Clicked on login button
+13:44:32.865 [main] INFO  testCases.TC001_LoginPageTest - Finished TC001_LoginPageTest
+20:18:40.476 [main] ERROR testCases.TC001_LoginPageTest - ❌  Username field is not visible .
+20:19:54.086 [main] ERROR testCases.TC001_LoginPageTest - ❌  Username field is not visible .
+20:20:24.981 [main] ERROR testCases.TC001_LoginPageTest - ❌  Username field is not visible .
+20:24:13.221 [main] ERROR testCases.TC001_LoginPageTest - Login header is missing.
+20:24:13.404 [main] ERROR testCases.TC001_LoginPageTest - Logo is missing.
+20:24:13.451 [main] ERROR testCases.TC001_LoginPageTest - ❌  Username field is not visible .
+20:25:10.014 [main] ERROR testCases.TC001_LoginPageTest - Login header is missing.
+20:25:10.103 [main] ERROR testCases.TC001_LoginPageTest - Logo is missing.
+20:25:10.104 [main] ERROR testCases.TC001_LoginPageTest - ❌  Username field is not visible .
+23:00:02.623 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:00:02.677 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:00:02.696 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:00:02.720 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:00:02.738 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:00:02.767 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+23:43:12.941 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:43:12.998 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:43:13.157 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:43:13.182 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:43:13.322 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:43:13.349 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+23:48:07.350 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:48:07.408 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:48:07.568 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:48:07.591 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:48:07.736 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:48:07.769 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+23:49:01.985 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:49:02.049 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:49:02.193 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:49:02.222 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:49:02.364 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:49:02.393 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+23:50:07.880 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:50:07.943 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:50:08.103 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:50:08.127 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:50:08.265 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:50:09.299 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+23:53:07.901 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:53:07.950 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+23:53:08.105 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:53:08.129 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+23:53:08.277 [main] INFO  utilities.ActionDriver - Element is clickable.
+23:53:09.346 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:17:23.362 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:17:23.427 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:17:23.605 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:17:23.631 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:17:23.779 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:17:23.809 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:25:19.922 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:25:19.981 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:25:20.141 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:25:20.167 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:25:20.304 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:25:20.333 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:30:23.405 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:30:23.478 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:30:23.646 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:30:23.671 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:30:23.812 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:30:24.861 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:32:11.155 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:32:11.209 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:32:11.377 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:32:11.401 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:32:11.552 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:32:12.607 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:41:37.609 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:41:37.665 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:41:37.842 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:41:37.866 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:41:38.000 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:41:39.048 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:46:35.031 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:46:35.103 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:46:35.244 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:46:35.274 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:47:06.021 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:47:06.087 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:47:06.232 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:47:06.258 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:49:42.048 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:49:42.104 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:49:42.271 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:49:42.298 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:49:42.430 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:49:42.459 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:55:56.707 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:55:56.763 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:55:56.920 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:55:56.945 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:55:57.089 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:55:57.118 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+00:59:31.385 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:59:31.445 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+00:59:31.597 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:59:31.622 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+00:59:31.763 [main] INFO  utilities.ActionDriver - Element is clickable.
+00:59:31.793 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+01:00:52.940 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:00:53.002 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+01:00:53.171 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:00:53.197 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+01:00:53.335 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:00:53.368 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+01:01:57.490 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:01:57.549 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+01:01:57.714 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:01:57.739 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+01:01:57.878 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:01:57.907 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+01:05:26.727 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:05:26.784 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+01:05:26.953 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:05:26.979 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+01:05:27.110 [main] INFO  utilities.ActionDriver - Element is clickable.
+01:05:27.141 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:16:04.716 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:16:04.776 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:16:04.931 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:16:04.955 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:16:05.105 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:16:05.132 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:19:48.456 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:19:48.506 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:19:48.671 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:19:48.696 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:19:48.832 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:19:49.993 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:20:00.188 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:20:00.973 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+19:22:17.286 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:22:17.333 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:22:17.502 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:22:17.526 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:22:17.665 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:22:17.694 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:22:27.863 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:22:28.604 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+19:49:56.905 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:49:56.950 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:49:57.114 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:49:57.139 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:49:57.280 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:49:58.412 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:50:08.602 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:50:09.368 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+19:50:09.525 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+19:53:29.427 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:53:29.475 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:53:29.631 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:53:29.655 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:53:29.796 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:53:30.873 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:53:31.558 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:53:32.471 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+19:53:32.631 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+10:51:09.606 [main] INFO  utilities.ActionDriver - Element is clickable.
+10:51:09.659 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+10:51:09.831 [main] INFO  utilities.ActionDriver - Element is clickable.
+10:51:09.859 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+10:51:10.000 [main] INFO  utilities.ActionDriver - Element is clickable.
+10:51:11.057 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+10:51:11.750 [main] INFO  utilities.ActionDriver - Element is clickable.
+10:51:12.641 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+10:51:12.814 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:03:28.835 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:03:28.890 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:03:29.054 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:03:29.079 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:03:29.211 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:03:30.354 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+11:03:31.062 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:03:32.006 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+11:03:32.164 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:31:37.792 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:32:53.765 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:32:53.819 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:32:53.984 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:32:54.009 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:32:54.156 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:32:54.182 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+11:32:55.937 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:32:57.220 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+11:32:57.378 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:33:33.686 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:39:06.650 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:40:52.625 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:44:27.844 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:45:10.556 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:45:55.747 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:48:15.644 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:48:41.819 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:48:41.872 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:48:42.030 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:48:42.056 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:48:42.198 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:48:43.394 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+11:48:44.114 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:48:45.512 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+11:48:45.666 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:56:15.157 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:15.212 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:56:15.377 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:15.401 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:56:15.538 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:16.692 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:56:17.380 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:18.255 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:56:18.391 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+17:59:16.403 [main] INFO  utilities.ActionDriver - Element is clickable.
+17:59:16.450 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+17:59:16.607 [main] INFO  utilities.ActionDriver - Element is clickable.
+17:59:16.632 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+17:59:16.777 [main] INFO  utilities.ActionDriver - Element is clickable.
+17:59:17.807 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+17:59:18.488 [main] INFO  utilities.ActionDriver - Element is clickable.
+17:59:19.283 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+17:59:19.419 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:43:57.910 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:43:57.966 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:43:58.136 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:43:58.162 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:43:58.318 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:44:11.321 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+11:44:14.603 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:44:21.960 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+11:44:22.139 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:54:56.593 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:54:56.642 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:54:56.806 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:54:56.831 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:54:56.969 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:55:12.220 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+11:55:16.045 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:55:26.133 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+11:55:26.311 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+11:59:56.711 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:59:56.767 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+11:59:56.926 [main] INFO  utilities.ActionDriver - Element is clickable.
+11:59:56.950 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+11:59:57.082 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:00:11.028 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:00:12.754 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:00:19.518 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:00:19.685 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:02:57.586 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:02:57.636 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:02:57.789 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:02:57.814 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:02:57.953 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:03:10.149 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:03:12.905 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:03:20.247 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:03:20.417 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:52:28.053 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:52:28.100 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:52:28.257 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:52:28.283 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:52:28.418 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:52:28.445 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:52:30.037 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:52:30.929 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:52:31.057 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:53:44.234 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:53:44.281 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:53:44.442 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:53:44.466 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:53:44.615 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:53:45.688 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:53:46.398 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:53:47.224 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:53:47.393 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:56:53.053 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:53.105 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:56:53.270 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:53.294 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:56:53.450 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:53.476 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:56:55.007 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:56:55.916 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:56:56.096 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:59:55.848 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:59:55.896 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:59:56.067 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:59:56.092 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:59:56.242 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:59:57.267 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:59:57.965 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:59:58.688 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:59:58.866 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+13:09:40.149 [main] INFO  utilities.ActionDriver - Element is clickable.
+13:09:40.197 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+13:09:40.375 [main] INFO  utilities.ActionDriver - Element is clickable.
+13:09:40.400 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+13:09:40.549 [main] INFO  utilities.ActionDriver - Element is clickable.
+13:09:41.789 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+13:09:42.486 [main] INFO  utilities.ActionDriver - Element is clickable.
+13:09:43.238 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+13:09:43.408 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+15:11:07.568 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:07.625 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+15:11:07.922 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:07.944 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+15:11:08.084 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:08.109 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+15:11:09.951 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:10.795 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+15:11:10.963 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+15:11:26.839 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:26.890 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+15:11:27.089 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:27.113 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+15:11:27.268 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:27.294 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+15:11:29.230 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:11:30.746 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+15:11:30.901 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+15:26:34.384 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:26:34.437 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+15:26:34.607 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:26:34.632 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+15:26:34.772 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:26:34.802 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+15:26:36.490 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:26:37.281 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+15:26:37.451 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+15:34:50.635 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:34:50.688 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+15:34:50.852 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:34:50.878 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+15:34:51.025 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:34:51.052 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+15:34:52.702 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:34:53.783 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+15:34:53.935 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+15:47:04.601 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:47:04.658 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+15:47:04.828 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:47:04.853 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+15:47:05.003 [main] INFO  utilities.ActionDriver - Element is clickable.
+15:47:06.099 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+15:47:17.174 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+16:00:07.431 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:00:07.487 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+16:00:07.655 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:00:07.680 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+16:00:07.810 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:00:07.838 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+16:00:19.729 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+16:33:16.485 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:33:16.540 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+16:33:16.709 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:33:16.734 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+16:33:16.872 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:33:17.916 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+16:33:18.617 [main] INFO  utilities.ActionDriver - Element is clickable.
+16:33:19.334 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+16:33:19.502 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+19:50:13.915 [TestNG-tests-1] INFO  utilities.ActionDriver - Element is clickable.
+19:50:13.919 [TestNG-tests-2] INFO  utilities.ActionDriver - Element is clickable.
+19:50:13.921 [TestNG-tests-1] INFO  utilities.ActionDriver - Sent keys: Admin
+19:50:13.967 [TestNG-tests-2] INFO  utilities.ActionDriver - Sent keys: admin123
+19:50:14.023 [TestNG-tests-1] INFO  utilities.ActionDriver - Element is clickable.
+19:50:14.027 [TestNG-tests-2] INFO  utilities.ActionDriver - Element is clickable.
+19:50:14.030 [TestNG-tests-1] INFO  utilities.ActionDriver - Sent keys: admin123
+19:50:14.799 [TestNG-tests-2] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:50:15.317 [TestNG-tests-1] INFO  utilities.ActionDriver - Element is clickable.
+19:50:15.527 [TestNG-tests-1] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:51:38.532 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:38.597 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:51:38.776 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:38.802 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:51:38.941 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:38.973 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+19:51:45.759 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:45.784 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+19:51:45.848 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:45.855 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+19:51:45.928 [main] INFO  utilities.ActionDriver - Element is clickable.
+19:51:47.234 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:09:55.204 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+20:10:26.715 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:10:26.774 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+20:10:26.922 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:10:26.948 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+20:10:27.101 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:10:28.122 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:10:37.424 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+20:26:12.463 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:26:12.520 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+20:26:12.690 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:26:12.718 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+20:26:12.868 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:26:13.986 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:26:14.705 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:26:15.501 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+20:26:15.655 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+20:32:06.947 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:32:07.006 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+20:32:07.188 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:32:07.213 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+20:32:07.360 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:32:08.532 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:36:38.169 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:36:38.223 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+20:36:38.388 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:36:38.412 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+20:36:38.559 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:36:38.587 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:37:48.542 [TestNG-test=chrometest-2] INFO  utilities.ActionDriver - Sent keys: admin123
+20:37:48.567 [TestNG-test=chrometest-3] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:37:48.818 [TestNG-test=chrometest-1] INFO  utilities.ActionDriver - Element is clickable.
+20:37:48.838 [TestNG-test=chrometest-1] INFO  utilities.ActionDriver - Sent keys: Admin
+20:37:49.100 [TestNG-test=firefoxtest-1] INFO  utilities.ActionDriver - Element is clickable.
+20:37:49.102 [TestNG-test=firefoxtest-2] INFO  utilities.ActionDriver - Element is clickable.
+20:37:49.104 [TestNG-test=firefoxtest-3] INFO  utilities.ActionDriver - Element is clickable.
+20:37:49.128 [TestNG-test=firefoxtest-1] INFO  utilities.ActionDriver - Sent keys: Admin
+20:37:49.144 [TestNG-test=firefoxtest-2] INFO  utilities.ActionDriver - Sent keys: admin123
+20:37:49.163 [TestNG-test=firefoxtest-3] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:48:54.343 [TestNG-test=chrometest-1] INFO  utilities.ActionDriver - Element is clickable.
+20:48:54.343 [TestNG-test=chrometest-3] INFO  utilities.ActionDriver - Element is clickable.
+20:48:54.344 [TestNG-test=chrometest-2] INFO  utilities.ActionDriver - Element is clickable.
+20:48:54.418 [TestNG-test=chrometest-2] INFO  utilities.ActionDriver - Sent keys: admin123
+20:48:54.438 [TestNG-test=chrometest-1] INFO  utilities.ActionDriver - Sent keys: Admin
+20:48:56.278 [TestNG-test=chrometest-3] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:49:02.567 [TestNG-test=firefoxtest-2] INFO  utilities.ActionDriver - Element is clickable.
+20:49:02.568 [TestNG-test=firefoxtest-3] INFO  utilities.ActionDriver - Element is clickable.
+20:49:02.569 [TestNG-test=firefoxtest-1] INFO  utilities.ActionDriver - Element is clickable.
+20:49:02.587 [TestNG-test=firefoxtest-2] INFO  utilities.ActionDriver - Sent keys: admin123
+20:49:02.815 [TestNG-test=firefoxtest-3] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:49:02.826 [TestNG-test=firefoxtest-1] INFO  utilities.ActionDriver - Sent keys: Admin
+20:49:24.502 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:49:24.553 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+20:49:24.725 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:49:24.750 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+20:49:24.903 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:49:25.942 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+20:49:26.638 [main] INFO  utilities.ActionDriver - Element is clickable.
+20:49:27.424 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+20:49:27.585 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
+12:50:42.256 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:50:42.331 [main] INFO  utilities.ActionDriver - Sent keys: Admin
+12:50:42.509 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:50:42.538 [main] INFO  utilities.ActionDriver - Sent keys: admin123
+12:50:42.702 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:50:42.737 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Login button
+12:50:44.344 [main] INFO  utilities.ActionDriver - Element is clickable.
+12:50:45.114 [main] INFO  utilities.ActionDriver - Clicked element: Clicked on Admin Button
+12:50:45.275 [main] INFO  utilities.ActionDriver - Selected all the checkboxes: Selected all check boxes
